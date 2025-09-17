@@ -1,0 +1,27 @@
+.contener{
+
+}
+.navbar{ display: flex;
+justify-content: space-between;
+background-color: black;
+
+}
+.logo{
+
+}
+.logo span{ 
+    color: white;
+    font-size: 32px;
+    font-weight: 800;
+
+}
+.navbar ul{
+ display: flex;
+ list-style: none;
+}
+.navbar ul li{
+
+}
+.navbar ul li a{
+
+}
