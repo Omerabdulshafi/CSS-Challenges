@@ -8,7 +8,8 @@ body{
 }
 .conteiner{ 
     background-color: white;
-    width: 400px;
+    width: 420px;
+    height: 530px;
     border-radius: 20px;
     justify-content: center;
     box-shadow: 10px 10px;
@@ -22,12 +23,12 @@ body{
 }
 
 .img{ display: flex;
-    justify-content: center;
+    margin-left: 30px;
     margin-top: 20px;
 
 }
 .img:hover{
-    background: none;
+    background: wheat;
 }
 button{
     background-color: chocolate;
@@ -41,12 +42,6 @@ button{
 button:hover{
     background: none;
 }
-.box{ 
-
-}
-h2{ align-items
-
-}
 p{
 margin-left: 30px;
 }
@@ -57,4 +52,27 @@ h1{
     align-items: center;  
     justify-content: center;
     margin-left: 30px;
+}
+.img2{
+margin-left: 30px;
+}
+.hooper{
+    margin-left: 100px;
+    margin-top: -70px;
+}
+.hooper:hover{
+    background: none;
+    color: blue;
+}
+.box h1:hover{
+    background: none;
+    color: chocolate;
+}
+.box p:hover{
+    background: none;
+    color: rgb(101, 0, 110);
+}
+p:hover{
+    background: none;
+    color: crimson;
 }
